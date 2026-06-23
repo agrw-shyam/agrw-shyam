@@ -28,25 +28,25 @@
     />
   </a>
 
-  <!-- Forks -->
-  <a href="https://api.github-star-counter.workers.dev/user/agrw-shyam">
-    <img
-      width="111px"
-      alt="Forks"
-      title="Forks Repository"
-      src="https://custom-icon-badges.demolab.com/github/forks/agrw-shyam/agrw-shyam?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001"
-    />
-  </a>
+  <!-- Repositories -->
+<a href="https://github.com/agrw-shyam?tab=repositories">
+  <img
+    width="170px"
+    alt="Repositories"
+    title="Public Repositories"
+    src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=000000&labelColor=FF1001&style=for-the-badge&logo=repo&logoColor=ffffff&label=Repositories&query=%24.public_repos&url=https://api.github.com/users/agrw-shyam"
+  />
+</a>
 
-  <!-- Followers -->
-  <a href="https://github.com/agrw-shyam?tab=followers">
-    <img
-      width="150px"
-      alt="Followers"
-      title="GitHub Followers"
-      src="https://custom-icon-badges.herokuapp.com/github/followers/agrw-shyam?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff"
-    />
-  </a>
+ <!-- Followers -->
+<a href="https://github.com/agrw-shyam?tab=followers">
+  <img
+    width="150px"
+    alt="Followers"
+    title="GitHub Followers"
+    src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&logoColor=ffffff&label=Followers&query=%24.followers&url=https://api.github.com/users/agrw-shyam"
+  />
+</a>
 </div>
 <br><br>
 
@@ -216,7 +216,6 @@ I thrive on collaboration, open-source contributions, and tackling complex probl
   width="410"
   src="https://streak-stats.demolab.com?user=agrw-shyam&theme=dark&background=0D0D0D&ring=FF1001&fire=FF1001&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=false"
 />
-
 </div>
 
 
